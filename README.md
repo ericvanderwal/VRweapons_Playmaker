@@ -5,7 +5,7 @@ https://www.assetstore.unity3d.com/en/#!/content/66387
 
 ## License
 
-** (c) Eric Vander Wal, 2017 All rights reserved. **
+**(c) Eric Vander Wal, 2017 All rights reserved**
 
 This package is released under LGPL license: http://opensource.org/licenses/LGPL-3.0.  
 This content is released under the (http://opensource.org/licenses/MIT) MIT License.
