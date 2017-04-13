@@ -6,11 +6,15 @@ https://www.assetstore.unity3d.com/en/#!/content/66387
 ## License
 
 ** (c) Eric Vander Wal, 2017 All rights reserved. **
-This package is released under LGPL license: http://opensource.org/licenses/LGPL-3.0.
+
+This package is released under LGPL license: http://opensource.org/licenses/LGPL-3.0.  
 This content is released under the (http://opensource.org/licenses/MIT) MIT License.
-http://www.dumbgamedev.com
+
 
 See the licensing file for more information. The licensing file must be distrubuted with this package and its contents.
+
+http://www.dumbgamedev.com
+
 
 ## Current Author and Contributors
 
